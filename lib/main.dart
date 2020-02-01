@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
          // brightness: Brightness.dark,
 
         ),
-        home: LoginPage(),
+        home: CreditCardPage(),
         debugShowCheckedModeBanner: true,
         );
   }
