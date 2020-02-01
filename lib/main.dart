@@ -12,9 +12,9 @@ import 'package:gradient_app_bar/gradient_app_bar.dart';
 import 'Layouts/credit_card_page_layout.dart';
 
 
-void main() => runApp(Myapp());
+void main() => runApp(MyApp());
 
-class Myapp extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
